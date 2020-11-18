@@ -35,7 +35,7 @@ ul#horizontal li {
 
 .download {
   margin-top: 20px;
-  max-width: 200px;
+  max-width: 150px;
 }
 
 .video-thumbnail {
@@ -53,4 +53,9 @@ ul#horizontal li {
 
 .card-inset {
   background: rgba(242, 242, 247, 0.16);
+}
+
+.hero-body {
+  max-width: 1400px;
+  margin: 0 auto;
 }
