@@ -1,0 +1,19 @@
+Descrição do aplicativo:
+
+Bem-vindo ao Lillo Mapas da Cultura.
+Lillo é um aplicativo integrado ao Mapa da Cultura, plataforma dedicada a integrar e dar visibilidade para projetos, artistas, espaços, eventos culturais e seus produtores. Esse site é a principal base de informações e indicadores do Ministério da Cultura, se constituindo o pilar principal do SNIIC.
+
+Neste mapa estão reunidas informações do antigo Registro Aberto da Cultura - RAC, da Rede Cultura Viva, do Sistema Nacional de Bibliotecas Públicas - SNBP e do Cadastro Nacional de Museus.
+
+
+Recursos:
+- Pesquisa de espaços e eventos por localização.
+- Filtro de eventos por período, classificação e linguagens.
+- Adição de evento ao calendário.
+- Navegar até o evento usando o Google maps ou o Apple Maps.
+- Acesso a informações dos eventos e espaços como telefone, endereço, horários, acessibilidade e muito mais.
+- Widget de eventos próximos.
+
+
+Link da App Store: 
+https://apps.apple.com/us/app/lillo-mapas-da-cultura/id1644115760
